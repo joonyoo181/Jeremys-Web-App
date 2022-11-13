@@ -12,4 +12,8 @@ This application utilizes React.js and Firebase to allow any Google authenticaed
 ### Chat Page
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/59751754/201498711-546f1c68-22ef-44cc-b991-41a1ae77d573.png">
 
+### Realtime Database
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/59751754/201504796-9ecec9c9-7bed-4f0d-b108-91cd495f7429.png">
+
+
 This project was made with ❤️ by Jeremy Yoo 
